@@ -1,0 +1,205 @@
+.order{
+    background-color: white;
+    color: #c71585;
+}
+.order:hover{
+    background-color:#c71585;
+    color: black;
+}
+.cone{
+    width: 800px;
+    height: 600px;
+}
+.pin{
+    transition: all 3s;
+}
+.pin:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+}
+.man{
+    transition: all 3s;
+}
+.man:hover{
+    transform: scale(1.2);
+    background-color:yellow;
+}
+.malai{
+    font-size: 50px;
+}
+.oreo{
+    background-color: #c71585;
+}
+.pic{
+    width: 400px;
+    transition: all 3s;
+}
+.pic:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+}
+.cream{
+    position: relative;
+    bottom: 120px;
+    font-size: 190px;
+    transition: all 3s;
+}
+.cream:hover{
+    transform: scale(1.2);
+    text-shadow: 10px 10px 5px red ;
+  cursor: pointer;
+}
+.choclate{
+    width: 500px;
+    height: 400px;
+    transition: all 3s;
+}
+.choclate:hover{
+    transform: scale(1.1);
+}
+.straw{
+    width: 400px;
+    height: 300px;
+    transition: all 3s;
+}
+.straw:hover{
+    transform: scale(1.2);
+}
+.btn{
+    background-color: black;
+    border: 1px solid red;
+    transition: all 3s;
+    color: red;
+}
+.btn:hover{
+  transform: scale(1.2);
+  background-color: #c7154a;
+  border: none;
+  color: white;
+}
+.ring{
+    position: relative;
+    top: -35px;
+    left: 130px;
+}
+.icon{
+    position: relative;
+    top: 300px;
+    left: -20px;
+}
+.special{
+    position: relative;
+    left: 600px;
+    top: -550px;
+}
+.brand{
+    font-size: 80px;
+}
+.page{
+    font-size: 20px;
+    transition: all 3s;
+}
+.page:hover{
+    transform: scale(1.2);
+    color: yellow;
+}
+.ban{
+    font-size: 40px;
+}
+.price{
+   position: relative;
+   left: 250px;
+}
+.cat{
+    position: relative;
+    bottom: 25px;
+}
+.fan{
+    position: relative;
+    left: -210px;
+    bottom: 30px;
+    transition: all 3s;
+  color: white;
+  font-weight: bold;
+}
+.fan:hover{
+    transform: scale(1.1);
+    background-color: transparent;
+  color: #e6607d;
+  border: #e6607d 2px solid;
+  cursor: pointer;
+}
+.header{
+    background-color:#ffc5d9;
+    background-size: cover;
+    height: 1085px;
+}
+.cash{
+    position: relative;
+    left: -180px;
+    border: 1px solid black;
+}
+.hero{
+    position: relative;
+    left: -190px;
+    color: #c71585;
+    background-color: pink;
+}
+.berry{
+    position: relative;
+    bottom: 45px;
+    left: 35px;
+    border: 1px solid black;
+}
+.car{
+    position: relative;
+    bottom: 45px;
+    left: 25px;
+    color: #c71585; 
+    background-color:pink;
+}
+.cold:hover{
+ color: black;
+ border: 2px solid black;
+}
+.mango{
+ font-size: 80px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fresh{
+    position: relative;
+    left: 200px;
+}
+.share{
+    position: relative;
+    left: 500px;
+    top: 20px;
+}
+.cash1{
+    border: 1px solid black;
+}
+.hero1{
+    color: #c71585;
+    background-color: palevioletred;
+    position: relative;
+    left: -15px;
+}
+.berry1{
+    position: relative;
+    bottom: 45px;
+    left: 235px;
+    border: 1px solid black;
+}
+.car1{
+    position: relative;
+    bottom: 45px;
+    left: 220px;
+    color: #c71585; 
+    background-color:palevioletred;
+}
+.iceland{
+    background-image: url(apple.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
