@@ -7,8 +7,8 @@
     color: black;
 }
 .cone{
-    width: 800px;
-    height: 600px;
+    width: 500px;
+    height: 500px;
 }
 .pin{
     transition: all 3s;
