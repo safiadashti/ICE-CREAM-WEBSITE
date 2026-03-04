@@ -17,13 +17,6 @@
     cursor: pointer;
     transform: scale(1.2);
 }
-.man{
-    transition: all 3s;
-}
-.man:hover{
-    transform: scale(1.2);
-    background-color:yellow;
-}
 .malai{
     font-size: 50px;
 }
@@ -202,4 +195,23 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
+}
+.ras{
+    position: relative;
+    left: -40px;
+    gap: 70px;
+    transition: all 3s;
+}
+.ras:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+    color: white;
+    background-color: red;
+}
+.man{
+    transition: all 3s;
+}
+.man:hover{
+    transform: scale(1.1);
+    background-color:yellow;
 }
