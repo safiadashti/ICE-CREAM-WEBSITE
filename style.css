@@ -197,9 +197,6 @@
     height: 600px;
 }
 .ras{
-    position: relative;
-    left: -40px;
-    gap: 70px;
     transition: all 3s;
 }
 .ras:hover{
